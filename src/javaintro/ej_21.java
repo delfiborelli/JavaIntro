@@ -5,10 +5,14 @@
  */
 package javaintro;
 
+import java.util.Scanner;
+
 /**
  *
  * @author delfi
  */
 public class ej_21 {
-    
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+}
 }
